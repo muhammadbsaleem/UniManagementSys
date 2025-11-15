@@ -1,4 +1,4 @@
-// File: GraduateStudent.java
+
 public class GraduateStudent extends Student {
 
     public GraduateStudent(String id, String name, String email, String phone,
